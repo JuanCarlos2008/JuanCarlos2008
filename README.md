@@ -10,8 +10,8 @@ Sobre mí
 Mis intereses
 
 -  La programación y el desarrollo de software.
--  Los videojuegos y la tecnología.
--  Aprender nuevas herramientas y crear proyectos innovadores.
+-  Los videojuegos 
+-  ver películas 
 
 Tecnologías que quiero aprender
 
