@@ -32,7 +32,7 @@ Contacto
 
 - jbrito@ucol.mx (correo institucional) 
 
-- [LinkedIn] (https://www.linkedin.com/in/juan-carlos-brito-garcia-a76362446?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+- [LinkedIn](https://www.linkedin.com/in/juan-carlos-brito-garcia-a76362446?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 
 ---
