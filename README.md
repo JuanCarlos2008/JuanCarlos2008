@@ -30,8 +30,10 @@ Mis objetivos
 
 Contacto
 
-- 📧 Correo institucional: [Escribe aquí tu correo institucional]
-- 🔗 GitHub: "Mi perfil de GitHub" (https://github.com/)
+- jbrito@ucol.mx (correo institucional) 
+
+- https://www.linkedin.com/in/juan-carlos-brito-garcia-a76362446?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 
 ---
 
